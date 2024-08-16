@@ -4,3 +4,5 @@ Designed an executive-level dashboard to empower decision-making and optimize ho
 
 ### Dashboard Visualization
 ![](https://github.com/yinaS1234/Hospital-Operations-Dashboard/blob/main/dashboard%20pic.png)
+
+https://public.tableau.com/app/profile/yina7051/viz/OptimizingHospitalEfficiency/FinalComprehensiveDashboard
